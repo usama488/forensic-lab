@@ -1,0 +1,8 @@
+streamlit>=1.45
+numpy>=1.26
+pandas>=2.1
+plotly>=5.22
+pillow>=10
+scipy>=1.11
+scikit-image>=0.22
+reportlab>=4.0
